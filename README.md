@@ -3,7 +3,7 @@
 
 [![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@kevinfeng-cs88)](https://medium.com/@kevinfeng-cs88)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/prince-sardar-ab779b281/)](https://https://www.linkedin.com/in/prince-sardar-ab779b281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiPxcQDu7TWexRijUg01D2Q%3D%3D)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/prince-sardar-ab779b281/)](https://https://www.linkedin.com/in/prince-sardar-ab779b281)
 
 :school: Currently studying Computer Science at Makaut College, NJ</br>
 :fountain_pen: I have a passion for creative writing</br>
